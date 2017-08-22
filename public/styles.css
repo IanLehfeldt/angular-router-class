@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: skyblue;
+}
+
+.green{
+    background-color: forestgreen;
+}

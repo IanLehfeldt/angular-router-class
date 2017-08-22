@@ -1,0 +1,9 @@
+<h1 class='red'>{{vm.message}}</h1>
+
+{{vm}}
+
+<ul class='red'>
+    <!-- Now we can just call it like an object -->
+    <!-- Its like an object within an object -->
+    <li ng-repeat="thing in vm.redThings.list">{{thing}}</li>
+</ul>  
